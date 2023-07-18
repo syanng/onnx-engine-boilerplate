@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-src/onnxengine/__init__.py
-src/onnxengine/__main__.py
-src/onnxengine.egg-info/PKG-INFO
-src/onnxengine.egg-info/SOURCES.txt
-src/onnxengine.egg-info/dependency_links.txt
-src/onnxengine.egg-info/requires.txt
-src/onnxengine.egg-info/top_level.txt
