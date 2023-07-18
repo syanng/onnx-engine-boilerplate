@@ -2,6 +2,8 @@
 
 This is a boilerplate for PIP Package Model ONNX. The model will simply load onnx package and return ReadyOCR python object.
 
+If you want to go deeper, review this [blog post](https://realpython.com/pypi-publish-python-package/) from RealPython.
+
 
 ## Edit Package
 
