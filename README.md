@@ -26,11 +26,17 @@ dependencies = [
 
 ## Basic Usage
 
-After installing, we can use the ONNX engine as following
+After installing, we can use the ONNX engine as following:
 
 ```
 from onnxengine import ONNXEngine
 
 model = ONNXEngine(model_path="any_model.onnx")
 model.run(image_path)
+```
+
+Or you can run ```examples/sample.py``` file as following:
+
+```
+python sample.py -m `link/to/model.onnx' -i 'link/to/image'
 ```
